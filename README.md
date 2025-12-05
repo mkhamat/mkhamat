@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/GMkwnLsPfC0AAAAd/work-push-the-button.gif" width="300" />
+  <img src="https://media1.tenor.com/m/9p4MDNq2a6YAAAAd/like-cat.gif" width="300" />
+  👍
 </div>
 
 <!--
